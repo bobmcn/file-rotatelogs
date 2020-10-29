@@ -487,7 +487,7 @@ func TestForceNewFile(t *testing.T) {
 			}
 		}
 
-		})
+	})
 
 	t.Run("Force a new file with Rotate", func(t *testing.T) {
 
